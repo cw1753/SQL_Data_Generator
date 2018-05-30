@@ -42,4 +42,4 @@ After parsing the SQL table definition into the correct data structure, data fro
 
 When using the program with new SQL table definition, the only thing that news to be change is the ExportSQL.py file, setDataToAttribute function. Just need to open new data file using the readDataFile function. Then just create new elif statement for new attributes that is not listed in the program. Get data for that attribute from the data file that matches that attribute.
 
-![alt text](SQL_Data_Generator/Example Picture/Import data.JPG)
+![alt tag](https://raw.github.com/cw1753/SQL_Data_Generator/Example Picture/Import data.JPG)
