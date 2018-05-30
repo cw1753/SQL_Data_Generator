@@ -2,6 +2,7 @@ from ParsingSQL import parseSQLTable
 from ExportSQL import *
 import sys
 
+# Link to the github: https://github.com/cw1753/SQL_Data_Generator
 
 if __name__ == '__main__':
     # Fix the encoding for the files
